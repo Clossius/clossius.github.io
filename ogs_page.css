@@ -27,8 +27,9 @@ body {
     -moz-animation: scrolling 15s linear infinite;
     -webkit-animation: scrolling 15s linear infinite;
     animation: scrolling 15s linear infinite;
-}
+}*/
 /* Move it (define the animation) */
+/*
 @-moz-keyframes scrolling {
     0%   { -moz-transform: translateX(100%); }
     100% { -moz-transform: translateX(-100%); }
@@ -37,6 +38,7 @@ body {
     0%   { -webkit-transform: translateX(100%); }
     100% { -webkit-transform: translateX(-100%); }
 }
+/*
 @keyframes scrolling {
      0%   { 
         -moz-transform: translateX(100%); /* Firefox bug fix */
@@ -49,7 +51,7 @@ body {
         transform: translateX(-100%); 
     }
 }
-
+/*
 .about-container h3 {
     animation:blinkingText 1.5s infinite;
 }
