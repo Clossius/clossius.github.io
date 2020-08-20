@@ -5,7 +5,7 @@ body {
 
 .container {
     max-width: none !important;
-    background: linear-gradient(to bottom right, black, white) !important;
+    background: linear-gradient(to bottom right, #7289da, #23272a) !important;
 }
 
 .about-container {
