@@ -2,7 +2,7 @@ body {
     font-family: "Orbitron", "Times New Roman", Palatino, serif;
     text-align: center;
 }
-
+/*
 .container {
     max-width: none !important;
     background: linear-gradient(to bottom right, black, white) !important;
@@ -59,3 +59,4 @@ body {
     99%  {  opacity: 0; }
     100% {  opacity: 1; }
 }
+*/
